@@ -1,0 +1,5 @@
+2021-06-24 22:02:38,199 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
+2021-06-24 22:02:40,859 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je saisie Username
+2021-06-24 22:02:41,340 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je saisie Password
+2021-06-24 22:02:41,574 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je clique sur le bouton login
+2021-06-24 22:02:44,946 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je me redirige vers le compte

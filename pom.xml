@@ -5,18 +5,18 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>Framework-Selenium-Automation</groupId>
-	<artifactId>Framework-Selenium-Automation</artifactId>
+	<groupId>QA-Automation</groupId>
+	<artifactId>QA-Automation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>Framework-Selenium-Automation</name>
+	<name>QA-Automation</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>1.7</maven.compiler.source>
-		<maven.compiler.target>1.7</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<dependencies>
@@ -83,12 +83,7 @@
 			<version>1.7.18</version>
 		</dependency>
 
-		<dependency>
-			<groupId>io.github.bonigarcia</groupId>
-			<artifactId>webdrivermanager</artifactId>
-			<version>3.8.0</version>
-		</dependency>
-
+		
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -96,19 +91,9 @@
 			<version>6.8.8</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/com.sikulix/sikulixapi -->
-		<dependency>
-			<groupId>com.sikulix</groupId>
-			<artifactId>sikulixapi</artifactId>
-			<version>1.1.0</version>
-		</dependency>
+		
 
-		<!-- https://mvnrepository.com/artifact/com.asprise.ocr/java-ocr-api -->
-		<dependency>
-			<groupId>com.asprise.ocr</groupId>
-			<artifactId>java-ocr-api</artifactId>
-			<version>[15,)</version>
-		</dependency>
+
 
 		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
 		<dependency>
@@ -123,12 +108,7 @@
 			<version>3.13</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.codeborne</groupId>
-			<artifactId>selenide</artifactId>
-			<version>2.1</version>
-		</dependency>
-
+		
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
