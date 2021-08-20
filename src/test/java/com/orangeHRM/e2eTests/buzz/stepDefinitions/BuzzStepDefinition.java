@@ -43,7 +43,8 @@ public class BuzzStepDefinition {
 	@Then("^Je vérifie le message \"([^\"]*)\"$")
 	public void jeVérifieLeMessage(String message) throws Throwable {
 		
-		Assert.assertTrue(BuzzPage.buzzPost.getText().contains(message));
+		String textMsg = BuzzPage.buzzPost.getText();
+		Assert.assertTrue(textMsg.contains(message));
 	}
 
 }

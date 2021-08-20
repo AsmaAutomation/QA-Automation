@@ -10,7 +10,7 @@ public class BuzzPage {
 	final static String MODULE_BUZZ_ID = "menu_buzz_viewBuzz";
 	final static String TEXTAREA_BUZZ_ID = "createPost_content";
 	final static String POST_BTN_ID = "postSubmitBtn";
-	final static String BUZZ_POST = "//*[contains(text(),\"I'm Happy\")]";
+	final static String BUZZ_POST = "//*[contains(text(),\"Message test\")]";
 
 	
 	/* FindBy */
