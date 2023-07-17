@@ -17,7 +17,7 @@ import cucumber.api.junit.Cucumber;
 		//glue = {}, it's the path of step definition so, it's used only if the testRunner is located in a package
 		plugin = {"pretty", "html:target/cucumber-html-report","json:target/cucumber.json", "com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-report/OrangeHRM.html"},
 		snippets = SnippetType.CAMELCASE,
-		tags = {("@search")},
+		tags = {("@connexion")},
 		monochrome = true //Pour ordonner l'affichage console
 		)
 

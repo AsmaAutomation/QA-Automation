@@ -9,6 +9,8 @@ import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
 
+
+
 public class Setup {
 	
 	public static WebDriver driver;
@@ -40,7 +42,7 @@ public class Setup {
 			}
 		}
 		
-		driver.quit();
+		//driver.quit();
 		
 	}
 

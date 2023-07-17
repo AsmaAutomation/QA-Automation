@@ -1,5 +1,2 @@
-2021-08-20 13:05:55,763 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
-2021-08-20 13:06:00,192 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je saisie Username
-2021-08-20 13:06:00,507 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je saisie Password
-2021-08-20 13:06:00,750 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je clique sur le bouton login
-2021-08-20 13:06:04,210 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je me redirige vers le compte
+2023-07-17 17:16:36,062 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je me connecte à l'application OrangeHRM
+2023-07-17 17:16:39,202 - com.gargoylesoftware.htmlunit.AbstractPage - INFO - Je saisie Username
